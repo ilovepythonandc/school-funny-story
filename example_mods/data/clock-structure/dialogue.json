@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "why are you here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i don't know."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "didn't you run into my cd room !?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i don't know."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i fell into a hole and then i get to here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "that's cool!isn't it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "so funny"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "what a good joke!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you don't belive it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don't you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yes i am"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "hey!\\nit's real!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How can you prove it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just wait."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "someone will cosenben"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so ehh."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "what's now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's have a battle."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

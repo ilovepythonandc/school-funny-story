@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1053,
+				385
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				1048,
+				391
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				1027,
+				423
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1045,
+				379
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				1084,
+				383
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1044,
+				370
+			],
+			"anim": "singUPmiss",
+			"fps": 60,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1003,
+				380
+			],
+			"anim": "singDOWNmiss",
+			"fps": 60,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1020,
+				377
+			],
+			"anim": "singLEFTmiss",
+			"fps": 60,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1019,
+				381
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 60,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1048,
+				382
+			],
+			"anim": "idle-loop",
+			"fps": 60,
+			"name": "idle",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1050,
+				393
+			],
+			"anim": "singUP-loop",
+			"fps": 60,
+			"name": "up",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1017,
+				420
+			],
+			"anim": "singLEFT-loop",
+			"fps": 60,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1053,
+				381
+			],
+			"anim": "singDOWN-loop",
+			"fps": 60,
+			"name": "down",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1087,
+				367
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 60,
+			"name": "right",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/binarimi-run",
+	"position": [
+		140,
+		460
+	],
+	"healthicon": "binarimi",
+	"flip_x": true,
+	"healthbar_colors": [
+		180,
+		239,
+		233
+	],
+	"camera_position": [
+		650,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1.25
+}

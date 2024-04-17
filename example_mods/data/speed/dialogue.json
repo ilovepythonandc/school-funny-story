@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "senben_talk",
+			"speed": 0.04,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ok!\\nnow we will had some speed!"
+		},
+		{
+			"sound": "bf_talk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what?"
+		},
+		{
+			"sound": "senben_talk",
+			"speed": 0.05,
+			"portrait": "senben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "let's go!"
+		}
+	]
+}

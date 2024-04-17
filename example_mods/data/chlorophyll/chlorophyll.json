@@ -1,0 +1,630 @@
+{
+	"song": {
+		"player1": "binarimi-run",
+		"events": [
+			[
+				0,
+				[
+					[
+						"MoveArrowsSwap",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				3692.30769230769,
+				[
+					[
+						"MoveArrowsSwap",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"three",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"two",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30461.5384615385,
+				[
+					[
+						"one",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30923.0769230769,
+				[
+					[
+						"go",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"gfSection": false,
+				"sectionNotes": [
+					[
+						0,
+						0,
+						0
+					],
+					[
+						230.769230769231,
+						2,
+						0
+					],
+					[
+						461.538461538462,
+						3,
+						0
+					],
+					[
+						692.307692307692,
+						1,
+						0
+					],
+					[
+						923.076923076923,
+						0,
+						0
+					],
+					[
+						1153.84615384615,
+						1,
+						0
+					],
+					[
+						1038.46153846154,
+						0,
+						0
+					],
+					[
+						1384.61538461538,
+						3,
+						0
+					],
+					[
+						1615.38461538462,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						1846.15384615385,
+						3,
+						0
+					],
+					[
+						2076.92307692308,
+						1,
+						0
+					],
+					[
+						2307.69230769231,
+						0,
+						0
+					],
+					[
+						2538.46153846154,
+						2,
+						0
+					],
+					[
+						2769.23076923077,
+						3,
+						0
+					],
+					[
+						3000,
+						2,
+						0
+					],
+					[
+						3230.76923076923,
+						0,
+						0
+					],
+					[
+						3461.53846153846,
+						1,
+						0
+					],
+					[
+						2653.84615384615,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						3692.30769230769,
+						0,
+						0
+					],
+					[
+						3923.07692307692,
+						2,
+						0
+					],
+					[
+						4153.84615384615,
+						3,
+						0
+					],
+					[
+						4384.61538461538,
+						1,
+						0
+					],
+					[
+						4615.38461538462,
+						0,
+						0
+					],
+					[
+						4846.15384615385,
+						1,
+						0
+					],
+					[
+						4730.76923076923,
+						0,
+						0
+					],
+					[
+						5076.92307692308,
+						3,
+						0
+					],
+					[
+						5307.69230769231,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						5538.46153846154,
+						3,
+						0
+					],
+					[
+						5769.23076923077,
+						1,
+						0
+					],
+					[
+						6000,
+						0,
+						0
+					],
+					[
+						6230.76923076923,
+						2,
+						0
+					],
+					[
+						6461.53846153846,
+						3,
+						0
+					],
+					[
+						6692.30769230769,
+						2,
+						0
+					],
+					[
+						6923.07692307692,
+						0,
+						0
+					],
+					[
+						7153.84615384615,
+						1,
+						0
+					],
+					[
+						6346.15384615385,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						7384.61538461538,
+						3,
+						0
+					],
+					[
+						7615.38461538462,
+						1,
+						0
+					],
+					[
+						7846.15384615385,
+						2,
+						0
+					],
+					[
+						8076.92307692308,
+						0,
+						0
+					],
+					[
+						8769.23076923077,
+						1,
+						0
+					],
+					[
+						8884.61538461538,
+						1,
+						0
+					],
+					[
+						9000,
+						0,
+						0
+					],
+					[
+						8538.46153846154,
+						2,
+						0
+					],
+					[
+						8307.69230769231,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			}
+		],
+		"player2": "bizens-run",
+		"player3": null,
+		"gameOverChar": "binarimi-dead",
+		"song": "chlorophyll",
+		"stage": "school-run",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"bpm": 130,
+		"speed": 1.6
+	}
+}

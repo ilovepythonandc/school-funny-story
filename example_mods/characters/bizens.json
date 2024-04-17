@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-907,
+				758
+			],
+			"anim": "idle",
+			"fps": 60,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-866,
+				778
+			],
+			"anim": "singUP",
+			"fps": 60,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-812,
+				761
+			],
+			"anim": "singLEFT",
+			"fps": 60,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-825,
+				757
+			],
+			"anim": "singDOWN",
+			"fps": 60,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-930,
+				765
+			],
+			"anim": "singRIGHT",
+			"fps": 60,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bizens",
+	"position": [
+		120,
+		650
+	],
+	"healthicon": "bizens",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		100,
+		255
+	],
+	"camera_position": [
+		790,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 0.37
+}
